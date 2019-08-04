@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Projectv7.ToDo">
+    <ContentPage.Content>
+        <StackLayout Margin="5,10,5,5">
+            
+            <Label Text="What's on your mind?" FontSize="Large" />
+            <Label Text="Enter a Memo to Do Someday in your Life ! " FontSize="Large" />
+
+
+            <Editor x:Name="editor"
+                Placeholder="Enter to do someday in your life ! "
+                HeightRequest="100" />
+
+            <Button Text="Save" Clicked="_Save"/>
+            <Label x:Name="_editor"  />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\bin\Debug\netstandard2.0\Projectv7.deps.json
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\bin\Debug\netstandard2.0\Projectv7.dll
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\bin\Debug\netstandard2.0\Projectv7.pdb
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.csprojAssemblyReference.cache
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\ToDo.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.csproj.CoreCompileInputs.cache
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.AssemblyInfoInputs.cache
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.AssemblyInfo.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.dll
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\Projectv7.pdb
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\MyBills.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\ToDoHome.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\Projectv7\Projectv7\Projectv7\obj\Debug\netstandard2.0\TodoWork.xaml.g.cs
