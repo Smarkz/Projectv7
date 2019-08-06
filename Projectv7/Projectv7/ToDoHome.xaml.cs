@@ -13,7 +13,7 @@ namespace Projectv7
 	public partial class ToDoHome : ContentPage
 	{
 
-        string _fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Home.txt");
+        string _fileName = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "Home_.txt");
 
         public ToDoHome ()
 		{

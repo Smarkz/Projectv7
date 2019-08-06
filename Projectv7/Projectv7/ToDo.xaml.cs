@@ -29,10 +29,13 @@ namespace Projectv7
         {
             string x = _editor.Text;
             string y = editor.Text;
-            string all = x +"\n"+ y;
+            string date = System.DateTime.Today.ToShortDateString();
+            string all = x + "\n" + "  " + date + " " + y;
             File.WriteAllText(_fileName, all);
-            DisplayAlert("Saved Successfull !","Add to Memo","Ok");
             _editor.Text = File.ReadAllText(_fileName);
+
+
+            DisplayAlert("Saved Successfull !", "Add to Memo", "Ok");
             editor.Text = "";
 
         }

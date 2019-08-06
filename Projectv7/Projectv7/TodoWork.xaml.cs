@@ -27,7 +27,8 @@ namespace Projectv7
         {
             string x = _editor.Text;
             string y = editor.Text;
-            string all = x + "\n" + y;
+            string date = System.DateTime.Today.ToShortDateString();
+            string all = x + "\n" + "  " + date + " " + y;
             File.WriteAllText(_fileName, all);
             _editor.Text = File.ReadAllText(_fileName);
 
